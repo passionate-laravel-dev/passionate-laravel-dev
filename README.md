@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artem Beneda, a Laravel Full Stack Developer.
+- 👋 Hi, I’m Passionate, a Laravel Full Stack Developer.
 - 👀 I’m interested in long-term collaboration with great client.
 - 🌱 I’m currently learning Symfony to expand my expands my expertise.
 - 💞️ I’m looking to collaborate on big project.
