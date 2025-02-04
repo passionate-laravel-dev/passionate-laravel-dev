@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Symfony to expand my expands my expertise.
 - 💞️ I’m looking to collaborate on big project.
 - 📫 Please reach me on upwork.
-- 😄 Pronouns: he/they, she/they.
+- 😄 Pronouns: he/they.
 - ⚡ Fun fact: I’ve spent more time with my code editor than my couch.
