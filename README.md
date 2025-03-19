@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Passionate, a Laravel Full Stack Developer.
+- 👋 Hi, I’m Taha Haddane, a Laravel Full Stack Developer.
 - 👀 I’m interested in long-term collaboration with great client.
 - 🌱 I’m currently learning DevOps to expand my expertise.
 - 💞️ I’m looking to collaborate on big project.
-- 📫 Please reach me on upwork.
 - 😄 Pronouns: he/they.
 - ⚡ Fun fact: I’ve spent more time with my code editor than my couch.
